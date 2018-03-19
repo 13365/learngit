@@ -4,3 +4,4 @@ git has a mutable index called stage.
 git tracks changes of file.
 creating a new branch is quick and simple.
 it is very easy to create.
+switch to a new branch 'dev'
